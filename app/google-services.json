@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63622296085",
+    "project_id": "fir-bb1f1",
+    "storage_bucket": "fir-bb1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63622296085:android:e27cbd18098d46b0d5541c",
+        "android_client_info": {
+          "package_name": "com.example.icetask1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lj-OCvw9ruWZaCk3BPUr1FTWUZxazLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63622296085:android:783c88a01f73809bd5541c",
+        "android_client_info": {
+          "package_name": "com.example.loginregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lj-OCvw9ruWZaCk3BPUr1FTWUZxazLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
